@@ -43,5 +43,16 @@ donde se nos pregunta:
 1. Si queremos agregar python al PATH del sistema (override del python del sistema) o creamos un python particular para  nosotros.
 2. Registrar Anaconda como el PATH por defecto.
 
+#### Es Recomendable quedarns con el por defecto ("Register Anaconda3 as my default Python 3.8...")
 
+![Imagen register](imgs/imagenregister.png)
+
+
+Luego nos saldrá la opción de ir a descargar PyCharm que es un IDE.  En este curso no utilizaremos PyCharm, por lo que les recomiendo que no descarguen.
+
+Felicitaciones, has instalado Anaconda con éxito.
+
+![Imagen register](imgs/anacondaFinish.png)
+
+Ahora en la barra de búsquda ![Imagen_]
 
