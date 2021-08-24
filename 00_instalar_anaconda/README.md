@@ -97,7 +97,11 @@ Luego ejecutamos nuestro comando en el prompt de anaconda con la siguiente instr
 
 y me cuentan lo que pasa.
 
-## :trollface:
+
+
+# :trollface:
+
+
 
 
 Si pudieron ver la página, entonces tienen funcionando la suite anaconda.
