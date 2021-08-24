@@ -1,5 +1,7 @@
 # ACI777
-## Curso de Análisis de Datos de la ![Imagen_UDLA](assets/imgs/udla.png)
+![Imagen_UDLA](assets/imgs/udla.png)
+
+# Curso de Análisis de Datos 
 
 ![Imagen_FINE](assets/imgs/fine.png)
 
