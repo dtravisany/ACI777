@@ -54,7 +54,7 @@ Felicitaciones, has instalado Anaconda con éxito.
 
 ![Imagen register](imgs/anacondaFinish.png)
 
-Ahora en la barra de búsquda ![Imagen_barra](barrabusqueda.png)
+Ahora en la barra de búsquda ![Imagen_barra](imgs/barrabusqueda.png)
 Escribimos:
 
     Anaconda Prompt
