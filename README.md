@@ -42,7 +42,7 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 6. Aprendizaje No Supervisado.
 7. Visualización.
 
-## Unidad V - Deep Learning
+## Unidad IV - Deep Learning
 
 1. Introducción a las redes neuronales.
 2. Entrenamiento de redes neuronales profundas.
