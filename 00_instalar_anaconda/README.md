@@ -19,7 +19,7 @@ Al comenzar la descarga ![Imagen descarga](imgs/imagendescarga.png).
  Se abrirá una ventana emergente con un registro para Anaconda Nucleus, el cual es opcional.
  :warning: __No es necesario registrarse en Anaconda Nucleus__.
 
-![Imagen option](imgs/imagen_option.png)
+![Imagen option](imgs/Imagen_option.png)
 
 Al hacer ejecutar el instalador, se nos abrirá un clásico [wizard installer](https://www.installaware.com/suite-installer-wizard.htm):
 
@@ -54,5 +54,13 @@ Felicitaciones, has instalado Anaconda con éxito.
 
 ![Imagen register](imgs/anacondaFinish.png)
 
-Ahora en la barra de búsquda ![Imagen_]
+Ahora en la barra de búsquda ![Imagen_barra](barabusqueda.png)
+Escribimos:
+
+    Anaconda Prompt
+
+
+
+
+
 
