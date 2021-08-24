@@ -1,4 +1,4 @@
-# Tutorial para instalar Anaconda
+# Tutorial para instalar Anaconda :snake:
 
 Durante el curso utilizaremos [Anaconda](https://www.anaconda.com/products/individual-d):
 
@@ -10,4 +10,10 @@ Al hacer click en [Anaconda](https://www.anaconda.com/products/individual-d)
 Veremos la siguiente página:
 
 ![Imagen portal anaconda](imgs/imagen0.png)
+
+Dependiendo de nuestro sistema operativo seleccionaremos el icono correspondiente y descargaremos la última version haciendo click en __Download__. También podemos navegar hasta el final de la página y seleccionar una versión particular.
+
+![Imagen download](imgs/imagen1.png)
+
+
 
