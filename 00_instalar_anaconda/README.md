@@ -95,12 +95,7 @@ Luego ejecutamos nuestro comando en el prompt de anaconda con la siguiente instr
 
     python C:\ACI777\scripts\primero.py
 
-y me cuentan lo que pasa.
-
-
-
-# :trollface:
-
+y me cuentan lo que pasa :trollface:.
 
 
 
