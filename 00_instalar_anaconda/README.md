@@ -107,6 +107,12 @@ y me cuentan lo que pasa :trollface:.
 
 Si pudieron ver la página, entonces tienen funcionando la suite anaconda.
 
+Para los más clásicos, pueden escribir el siguiente comando en un nuevo archivo de texto:
+
+    print("HOLA MUNDO!")
+
+guardan su script y ejecutan en anaconda prompt.
+
 
 
 
