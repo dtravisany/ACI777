@@ -1,7 +1,7 @@
 # ACI777
 ## Curso de Análisis de Datos de la Universidad de las Américas 
 
-
+![Imagen_UDLA](assets/imgs/udla.jpg)
 
 #### Profesor: Dante Travisany
 
