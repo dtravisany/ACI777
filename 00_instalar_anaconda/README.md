@@ -54,8 +54,9 @@ en este curso no utilizaremos PyCharm por lo que no es necesaria su descarga.
 ![Imagen_PyCharm](imgs/anacondapycharm.png)
 
 
+Hacemos click en siguiente y esperamos a que se instale la suite, si todo anda bien:
 
-Felicitaciones, has instalado Anaconda con éxito.
+Felicitaciones :fireworks: , has instalado Anaconda con éxito.
 
 ![Imagen register](imgs/anacondaFinish.png)
 
