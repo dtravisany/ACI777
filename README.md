@@ -20,10 +20,18 @@ En esta unidad veremos una introducción a diversos trabajos donde se realiza an
 toolkits que utilizaremos durante el curso.
 
 1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
-   1.1 Primera actividad Instalación de [Anaconda](00_instalar_anaconda/README.md)
+   1. Tutorial Instalación de [Anaconda](00_instalar_anaconda/README.md)
+   
 2. Repaso de Python.
-3. Paqutes para cálculo científico, ciencia de datos y aprendizaje automático.
-
+    1. Introducción a [Jupyter Notebooks](01_Jupyter_notebooks/README.md)
+    2. Práctico Python en [Jupyter Notebooks](02_Practico_Python/README.md) 
+3. Paquetes para cálculo científico, ciencia de datos y aprendizaje automático.
+    1. Práctico de [Paquetes en Python](03_Practico_Paquetes/README.md)
+4. Introducción a git.
+   1. Práctico git en [github](04_Practico_Git/README.md)  
+5. Evaluación Ejercicio 1
+   1. Ejercicio 1, [Primer Proyecto Github con un Jupyter Notebook](05_Ejercicio_1/README.md)
+    
 ## Unidad II - Estadística, Datos y Pandas
 
 En esta unidad repasaremos herramientas de estadística descriptiva y luego exploraremos el paquete Pandas de Python.
