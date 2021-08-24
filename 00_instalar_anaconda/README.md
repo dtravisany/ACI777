@@ -54,10 +54,72 @@ Felicitaciones, has instalado Anaconda con éxito.
 
 ![Imagen register](imgs/anacondaFinish.png)
 
-Ahora en la barra de búsquda ![Imagen_barra](imgs/barrabusqueda.png)
+Ahora en la barra de búsqueda ![Imagen_barra](imgs/barrabusqueda.png)
 Escribimos:
 
-    Anaconda Prompt
+    Anaconda Navigator
+
+Y veremos la suite de herramientas que han sido instaladas en nuestro computador.
+
+![Imagen_barra](imgs/navigator.PNG)
+
+Desde acá podemos acceder a CMD.exe Prompt
+
+o desde la barra de búsqueda ![Imagen_barra](imgs/barrabusqueda.png)
+
+Escribimos:
+
+    Anaconda prompt
+
+
+Esto nos abrirá la terminal con el python de Anaconda cargado:
+
+
+![Imagen_anacondaprompt](imgs/anacondaprompt.png)
+
+Ahora abriremos un block de notas o una herramienta recomendable para editar scripts en varios lenguajes como lo es 
+[Notepad++](https://notepad-plus-plus.org/).
+
+Y escribimos lo siguiente:
+
+    import antigravity
+
+
+![Imagen_notepad](imgs/antigravity.png) 
+
+Ahora guardamos nuestro documento en una carpeta de fácil acceso como
+
+    C:\ACI777\scripts\primero.py
+
+Luego ejecutamos nuestro comando en el prompt de anaconda con la siguiente instrucción:
+
+    python C:\ACI777\scripts\primero.py
+
+y me cuentan lo que pasa.
+
+## :trollface:
+
+
+Si pudieron ver la página, entonces tienen funcionando la suite anaconda.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
