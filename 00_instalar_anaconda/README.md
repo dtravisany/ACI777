@@ -48,7 +48,12 @@ donde se nos pregunta:
 ![Imagen register](imgs/imagenregister.png)
 
 
-Luego nos saldrá la opción de ir a descargar PyCharm que es un IDE.  En este curso no utilizaremos PyCharm, por lo que les recomiendo que no descarguen.
+Luego nos saldrá la opción de ir a descargar PyCharm que es un IDE. Es una muy buena IDE y el que esté interesado puede descargarla. Sin embargo, 
+en este curso no utilizaremos PyCharm por lo que no es necesaria su descarga.
+
+![Imagen_PyCharm](imgs/anacondapycharm.png)
+
+
 
 Felicitaciones, has instalado Anaconda con éxito.
 
