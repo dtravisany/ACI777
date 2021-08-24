@@ -17,29 +17,29 @@ y poder realizar el procesamiento para la construcción de modelos predictivos. 
 En esta unidad veremos una introducción a diversos trabajos donde se realiza análisis de datos y pondremos a punto los 
 toolkits que utilizaremos durante el curso.
 
-1.- Introducción al análisis de datos, toolkit y ejemplos prácticos.
-2.- Repaso de Python.
-3.- Paqutes para cálculo científico, ciencia de datos y aprendizaje automático.
+1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
+2. Repaso de Python.
+3. Paqutes para cálculo científico, ciencia de datos y aprendizaje automático.
 
 ## Unidad II - Estadística, Datos y Pandas
 
 En esta unidad repasaremos herramientas de estadística descriptiva y luego exploraremos el paquete Pandas de Python.
 
-1.- Estadística Descriptiva.
-2.- Formatos de archivos de datos y su manipulación.
-3.- Pandas y la exploración de datos.
-4.- Filtrado de datos.
-4.- Estadística Predictiva.
-5.- Toma de decisiones.
+1. Estadística Descriptiva.
+2. Formatos de archivos de datos y su manipulación.
+3. Pandas y la exploración de datos.
+4. Filtrado de datos.
+5. Estadística Predictiva.
+6. Toma de decisiones.
 
 ## Unidad III - Introducción al Aprendizaje de Máquina
 
-1.- Clasificación.
-2.- Entrenamiento de Modelos.
-3.- Máquinas de vectores de soporte.
-4.- Arboles de decisión y Random Forest.
-5.- Reducción de dimensionalidad.
-6.- Aprendizaje No Supervisado.
+1. Clasificación.
+2. Entrenamiento de Modelos.
+3. Máquinas de vectores de soporte.
+4. Arboles de decisión y Random Forest.
+5. Reducción de dimensionalidad.
+6. Aprendizaje No Supervisado.
 
 
 
