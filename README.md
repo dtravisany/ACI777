@@ -1,5 +1,7 @@
 # ACI777
-## Curso de Análisis de Datos de la UDLA
+## Curso de Análisis de Datos de la Universidad de las Américas 
+
+
 
 #### Profesor: Dante Travisany
 
@@ -18,6 +20,7 @@ En esta unidad veremos una introducción a diversos trabajos donde se realiza an
 toolkits que utilizaremos durante el curso.
 
 1. Introducción al análisis de datos, toolkit y ejemplos prácticos.
+   1.1 Primera actividad Instalación de [Anaconda](00_instalar_anaconda/README.md)
 2. Repaso de Python.
 3. Paqutes para cálculo científico, ciencia de datos y aprendizaje automático.
 
