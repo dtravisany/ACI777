@@ -84,6 +84,6 @@ Felicitaciones :fireworks:  has instalado Jupyter Notebook!.
 
 Para ejecutar en linux/mac abrir una terminal, para ejecutar  en windows utilizar Anaconda prompt y escribir:
 
-    jupyter notebook
+    jupyter-notebook
 
 
