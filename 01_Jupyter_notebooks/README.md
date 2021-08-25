@@ -64,5 +64,26 @@ o mediante conda:
 
 ``pip`` es el instalador de paquetes de python que viene por defecto. Puedes encontrar más información [acá](https://pypi.org/project/pip/)
 
+### Instalación Jupyter-notebook
+
+#### Instalation con mamba o conda
+
+    mamba install -c conda-forge notebook
+
+o con conda:
+ 
+    conda install -c conda-forge notebook
+
+Instalación con ``pip``
+
+Si usted usa ``pip``, se puede instalar con la siguiente línea:
+
+    pip install notebook
+
+Felicitaciones :fireworks:  has instalado Jupyter Notebook!.
+
+Para ejecutar en linux/mac abrir una terminal, para ejecutar  en windows utilizar Anaconda prompt y escribir:
+
+    jupyter notebook
 
 
