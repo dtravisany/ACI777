@@ -26,7 +26,7 @@ toolkits que utilizaremos durante el curso.
    
 2. Repaso de Python.
     1. Introducción a [Jupyter Notebooks](01_Jupyter_notebooks/README.md)
-    2. Práctico Python en [Jupyter Notebooks](02_Practico_Python/README.md) 
+    2. Práctico Python en [Jupyter Notebooks](02_Practico_Python/repasopython.ipynb) 
 3. Paquetes para cálculo científico, ciencia de datos y aprendizaje automático.
     1. Práctico de [Paquetes en Python](03_Practico_Paquetes/README.md)
 4. Introducción a git.
