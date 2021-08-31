@@ -52,6 +52,33 @@ Otra cosa que podemos agregar, es que git for windows, posee una interfaz gráfi
 
 Podemos descargar git for windows desde el siguiente repositorio oficial de [git-for-windows](https://github.com/git-for-windows/git/releases/)
 
+Entonces, procederemos a descargar y ver paso a paso la configuración de git for windows.
+
+1. Entramos a https://gitforwindows.org/ y descargamos la versión.
+
+![](imgs/01descarga.png)
+![](imgs/02descargado.PNG)
+![](imgs/03next1.PNG)
+![](imgs/04path.PNG)
+![](imgs/05selectcomp.PNG)
+![](imgs/06menufolder.PNG)
+![](imgs/07etexto.PNG)
+![](imgs/08gitdecide.PNG)
+![](imgs/09override.PNG)
+![](imgs/10ssh.PNG)
+![](imgs/11ssl.PNG)
+![](imgs/12lineending.PNG)
+![](imgs/13window.PNG)
+![](imgs/14gitpull.PNG)
+![](imgs/15credentials.PNG)
+![](imgs/16extras.PNG)
+![](imgs/17experimental.PNG)
+![](imgs/18avance.PNG)
+![](imgs/19launch.png)
+![](imgs/20terminal.PNG) 
+
+
+
 
 
 ¿qué es github?
