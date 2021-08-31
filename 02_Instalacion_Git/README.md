@@ -129,10 +129,13 @@ Como en recomendaciones anteriores, les sugiero el editor [Notepad++](https://no
 
 ![LAUNCH](imgs/19launch.png)  
 
-20. Esto ejecutará MinTTY en nuestro entorno, ya tenemos git instalado y estamos listos para aplicar lo aprendido en la clase práctica.
+20. Esto ejecutará MinTTY en nuestro entorno, ya tenemos git instalado y estamos listos para aplicar lo aprendido en la clase teórica.
 
 ![MinTTY](imgs/20terminal.PNG) 
 
+
+
+## Ahora podemos continuar al práctico de [github](../03_Practico_github/README.md).
 
 
 
