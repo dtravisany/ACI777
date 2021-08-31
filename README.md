@@ -30,7 +30,9 @@ toolkits que utilizaremos durante el curso.
 3. Paquetes para cálculo científico, ciencia de datos y aprendizaje automático.
     1. Práctico de [Paquetes en Python](03_Practico_Paquetes/README.md)
 4. Introducción a git, la veremos en clase.
-   1. Práctico git en [github](02_Practico_git/README.md)  
+
+   1. Instalación de [Git](02_Instalacion_git/README.md)
+   2. Práctico git en [github](03_Practico_github/README.md)  
 5. Evaluación Ejercicio 1
    1. Ejercicio 1, [Primer Proyecto Github con un Jupyter Notebook](05_Ejercicio_1/README.md)
     
