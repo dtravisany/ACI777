@@ -54,15 +54,24 @@ Podemos descargar git for windows desde el siguiente repositorio oficial de [git
 
 Entonces, procederemos a descargar y ver paso a paso la configuración de git for windows.
 
-1. Entramos a https://gitforwindows.org/ y descargamos la versión.
+1. Entramos a https://gitforwindows.org/ y descargamos la versión en el link download:
+![DOWNLOAD](imgs/01descarga.png)
+2. Una vez descargado hacemos click en el .exe y se nos abrirá el tipico wizard de instalación:
+![DESCARGADO](imgs/02descargado.PNG)
+3. Aceptamos la licencia [GNU General Public License Version 2](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html):
+![LICENCIA](imgs/03next1.PNG)
+4. Seleccionamos el path donde queremos que sea instalado git for windows, como podemos ver en la imagen en esta versión deben existir por lo menos 263 MB disponibles de espacio en disco para instalar el software:
+![PATH](imgs/04path.PNG)
+5. Seleccionamos los componentes que queremos instalar, en mi caso yo agregue un acceso directo en el escritorio: 
+![COMPONENTES](imgs/05selectcomp.PNG)
+6. En esta ventana, seleccionamos el nombre del menú de inicio donde se agregaran los accesos directos:
+![MENUFOLDER](imgs/06menufolder.PNG)
+7. Ahora seleccionamos el editor de texto con el que vamos a trabajar en git.
+#### :warning: Advertencia: en mi caso estoy acostumbrado a utilizar [Vim](https://www.vim.org/).
+Vim es extremadamente útil sobretodo en entornos sin interfaz gráfica, pero resulta complejo adaptarse a utilizarlo y puede ser "tricky" dominarlo. 
+:nerd_face: Como nota geek: El libro [Learning the Vi and Vim Editors](https://www.oreilly.com/library/view/learning-the-vi/9780596529833/) de O'REILLY dice: _"No hay nada por lo que los usuarios de Unix y Linux sean más fanáticos que su editor de texto. Los editores son objeto de adoración y culto, o de desprecio y burla..."_  
+![EDITORTEXTO](imgs/07etexto.PNG)
 
-![](imgs/01descarga.png)
-![](imgs/02descargado.PNG)
-![](imgs/03next1.PNG)
-![](imgs/04path.PNG)
-![](imgs/05selectcomp.PNG)
-![](imgs/06menufolder.PNG)
-![](imgs/07etexto.PNG)
 ![](imgs/08gitdecide.PNG)
 ![](imgs/09override.PNG)
 ![](imgs/10ssh.PNG)
