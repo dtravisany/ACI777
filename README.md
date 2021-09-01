@@ -55,7 +55,7 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 1. Clasificación.
 2. Entrenamiento de Modelos.
 3. Máquinas de vectores de soporte.
-4. Arboles de decisión y Random Forest.
+4. Árboles de decisión y Random Forest.
 5. Reducción de dimensionalidad.
 6. Aprendizaje No Supervisado.
 7. Visualización.
