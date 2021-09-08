@@ -22,6 +22,15 @@ Luego ejecutaremos el comando que nos permite acceder a la ayuda de git
 
 Podremos ver que esta instruccion nos ayudara a ver los commits (ya veremos esto) realizados en nuestro proyecto y algunos parámetros para visualizar la información.
 
+## Presentándonos ante GIT
+
+Debemos establecer un nombre de usuario y un correo para trabajar con git:
+
+	git config --global user.name "Dante Travisany"
+	git config --global user.email user@email.com
+
+Esta configuración es importante porque le indica a git quien es el usuario que esta creando/modificando el repositorio.
+
 ### Creación de un repositorio git
 
 Crearemos un directorio nuevo donde le parezca más adecuado, por ejemplo, en windows podría ser ``C:/Usuarios/usuario/gitrepos/CURSO_ACI777`` donde usuario es su nombre de usuario en windows.
