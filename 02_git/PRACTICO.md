@@ -103,7 +103,7 @@ luego nos devolveremos a la carpeta raíz del proyecto y haremos
 	git commit -m "Agregada carpeta y README para práctico git"
 
 
-
+## :warning: Los siguientes comandos los veremos en el práctico de Github 
 
 
 	
