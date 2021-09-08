@@ -33,8 +33,8 @@ toolkits que utilizaremos durante el curso.
     1. Práctico de [Paquetes en Python](03_Practico_Paquetes/README.md)  
 
 4. Introducción a git.
-   1. Instalación de [Git](02_Git/README.md).
-   2. Práctico git basics [Git](02_git/README.md).
+   1. Instalación de [Git](02_git/README.md).
+   2. Práctico git basics [Git](02_git/PRACTICO.md).
    3. Práctico git en [github](03_Practico_github/README.md).  
     
 5. Evaluación Ejercicio 1
