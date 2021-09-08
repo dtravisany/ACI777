@@ -29,7 +29,7 @@ La nota será calculada de la siguiente manera:
 NOTA FINAL = Puntaje + 1 
  
 
-:warning: Bonus Track, pueden usar la librería `seaborn` para embellecer sus gráficos de matplotlib. (20 pts)  
+:warning: Bonus Track, pueden usar la librería `seaborn` para embellecer sus gráficos de matplotlib. (0.5 pts)  
 
 ## Entrega:
 
