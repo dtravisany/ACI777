@@ -38,7 +38,7 @@ toolkits que utilizaremos durante el curso.
    3. Práctico git en [github](03_Practico_github/README.md).  
     
 5. Evaluación Ejercicio 1
-   1. Ejercicio 1, [Primer Proyecto Github con un Jupyter Notebook](05_Ejercicio_1/README.md)
+   1. Ejercicio 1, [Primer Proyecto Github con un Jupyter Notebook](04_ejercicios/task01.md)
     
 ## Unidad II - Estadística, Datos y Pandas
 
