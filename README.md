@@ -39,6 +39,8 @@ toolkits que utilizaremos durante el curso.
     
 5. Evaluación Ejercicio 1
    1. Ejercicio 1, [Primer Proyecto Github con un Jupyter Notebook](04_ejercicios/task01.md)
+#### :warning: A pedido del público he subido un ejemplo de código con jupyter-notebook [aquí](05_ejemplo/) Para que resuelvan algunas dudas con los plots. 
+
     
 ## Unidad II - Estadística, Datos y Pandas
 
