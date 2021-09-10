@@ -33,7 +33,7 @@ NOTA FINAL = Puntaje + 1
 
 ## Entrega:
 
-Deberá enviar un link con su repositorio github a mi correo, a más tardar el día __viernes 10 de septiembre de 2021__ a las __18:00 hrs__
+Deberá enviar un link con su repositorio github a mi correo, a más tardar el día __miércoles 22 de septiembre de 2021__ a las __15:00 hrs__
 puede consultar la hora oficial de Chile, si tiene dudas sobre la hora, puede consultar en SERVICIO HIDROGRÁFICO Y OCEANOGRÁFICO DE LA ARMADA DE CHILE (SHOA) en [horaoficial.cl](https://horaoficial.cl)
 
 
