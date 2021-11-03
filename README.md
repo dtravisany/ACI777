@@ -51,7 +51,7 @@ toolkits que utilizaremos durante el curso.
 En esta unidad repasaremos herramientas de estadística descriptiva y luego exploraremos el paquete Pandas de Python.
 
 1. Estadística Descriptiva [aquí](07_unidad_2/clase_06_10_2021.ipynb).
-2. Formatos de archivos de datos y su manipulación [aquí](07_unidad_2/).
+2. Formatos de archivos de datos y su manipulación [aquí](07_unidad_2/Untitled.ipynb).
 3. Pandas y la exploración de datos [aquí](07_unidad_2/Practico-13-10-2021.ipynb).
 4. Filtrado de datos.
 5. Estadística Predictiva.
