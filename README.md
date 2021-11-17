@@ -53,8 +53,14 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 1. Estadística Descriptiva [aquí](07_unidad_2/clase_06_10_2021.ipynb).
 2. Formatos de archivos de datos y su manipulación [aquí](07_unidad_2/Práctico_06-10-2021.ipynb).
 3. Pandas y la exploración de datos [aquí](07_unidad_2/Practico-13-10-2021.ipynb) / [Bonus Maps](07_unidad_2/Untitled.ipynb).
-4. Filtrado de datos [clase 1](07_unidad_2/Clase_27_oct_2021.ipynb) y [práctico](07_unidad_2/clase27oct2021.ipynb).
-  [Primera Hora 03 Nov 2021](07_unidad_2/Primera_hora_03_11_2021.ipynb)
+4. Filtrado de datos [clase 1](07_unidad_2/Clase_27_oct_2021.ipynb) y [práctico](07_unidad_2/clase27oct2021.ipynb).  
+      4.1 [Primera Hora 03 Nov 2021](07_unidad_2/Primera_hora_03_11_2021.ipynb)  
+        
+         
+      4.2 [Segunda Parte 03 Nov 2021](07_unidad_2/Segunda_hora_03_11_2021.ipynb)  
+        
+        
+      4.3 [Tercera Parte 03 Nov 2021](07_unidad_2/tercera_parte_03_11_2021.ipynb)
 5. Estadística Predictiva.
 6. Toma de decisiones.
 
