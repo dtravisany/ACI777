@@ -61,18 +61,22 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
         
         
       4.3 [Tercera Parte 03 Nov 2021](07_unidad_2/tercera_parte_03_11_2021.ipynb)
-5. Estadística Predictiva.
-6. Toma de decisiones.
+
+[Todo el contenido acá](07_unidad_2/)
+
+
 
 ## Unidad III - Aprendizaje de Máquina
 
 1. Clasificación.
-2. Entrenamiento de Modelos.
-3. Máquinas de vectores de soporte.
-4. Árboles de decisión y Random Forest.
-5. Reducción de dimensionalidad.
-6. Aprendizaje No Supervisado.
-7. Visualización.
+2. Estadística Predictiva.
+3. Toma de decisiones.
+4. Entrenamiento de Modelos.
+5. Máquinas de vectores de soporte.
+6. Árboles de decisión y Random Forest.
+7. Reducción de dimensionalidad.
+8. Aprendizaje No Supervisado.
+9. Visualización.
 
 ## Unidad IV - Deep Learning
 
