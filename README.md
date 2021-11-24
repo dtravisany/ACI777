@@ -68,22 +68,13 @@ En esta unidad repasaremos herramientas de estadística descriptiva y luego expl
 
 ## Unidad III - Aprendizaje de Máquina
 
-1. Introducción.
-2. Clasificación.
-3. Estadística Predictiva.
-4. Toma de decisiones.
-5. Entrenamiento de Modelos.
+1. Introducción. (SLIDES EN BlackBoard)
+2. Entrenamiento de Modelos.
+3. Clasificación.
 6. Máquinas de vectores de soporte.
 7. Árboles de decisión y Random Forest.
 8. Reducción de dimensionalidad.
 9. Aprendizaje No Supervisado.
-10. Visualización.
-
-## Unidad IV - Deep Learning
-
-1. Introducción a las redes neuronales.
-2. Entrenamiento de redes neuronales profundas.
-3. Visión Computacional.
 
 
 
