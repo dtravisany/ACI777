@@ -5,7 +5,7 @@ Durante el curso utilizaremos [Anaconda](https://www.anaconda.com/products/indiv
 La edición Individual de Anaconda es una distribución de código abierto que permite realizar ciencia de datos y aprendizaje de máquina/automático en Python o R en computadores personales. 
 Esta distribución tiene más de 25 millones de usuarios en todo el mundo.
 
-Al hacer click en [Anaconda](https://www.anaconda.com/products/individual-d)
+Al hacer click en [Anaconda](https://www.anaconda.com/)
 
 Veremos la siguiente página:
 
